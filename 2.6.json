@@ -1,0 +1,46 @@
+{
+  "listings": [
+    {
+      "title": "my property 123",
+      "type": "house",
+      "address street": "123 Oxford Street",
+      "postcode": "2000",
+      "city": "Sydney",
+      "state": "NSW",
+      "price": 200,
+      "nBathrooms": 2,
+      "nBeds": [
+        1,
+        2,
+        3
+      ],
+      "amenities": [
+        "A/C",
+        "Heater",
+        "Wi-Fi",
+        "Free Parking"
+      ],
+      "thumbnail": "data:image/jpeg;base64,/[your base64 image here]"
+    },
+    {
+      "title": "good place 321",
+      "type": "apartment",
+      "address street": "44 Evans Street",
+      "postcode": "2024",
+      "city": "Sydney",
+      "state": "NSW",
+      "price": 230,
+      "nBathrooms": 1,
+      "nBeds": [
+        1,
+        1
+      ],
+      "amenities": [
+        "Pets Allowed",
+        "Cloth Washer",
+        "Cloth Dryer"
+      ],
+      "thumbnail": "data:image/jpeg;base64,/[your base64 image here]"
+    }
+  ]
+}
